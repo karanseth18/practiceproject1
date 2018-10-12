@@ -1,1 +1,2 @@
 # practiceproject1
+It is a predictive modeling Project in which I predict the prices of the houses based on various features such as location, situation etc. I performed analysis on the dataset by using python programming language, and as a result, I predict the sale price of the house. I the end, I compare my result with the actual result and I find that mean square error on the test set is only 0.016. But this dataset proves that there are much more influences price negotiations than the number of bedrooms or a white-picket fence
